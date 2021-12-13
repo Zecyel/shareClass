@@ -4,7 +4,7 @@ from _thread import start_new_thread as createThread
 
 port = 1627
 host = socket.gethostname()
-maxBufferSize = 5 # 1M
+maxBufferSize = 1048576 # 1M
 splitter = "\t" # 消息分隔符
 
 class WebShare():
