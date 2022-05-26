@@ -6,5 +6,5 @@
 
 ## 使用示例
 
-![demo](http://zhuchengyang.gitee.io/image-bed/share-class/demo.gif)
+![demo](./demo.gif)
 
