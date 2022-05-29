@@ -6,5 +6,5 @@
 
 ## 使用示例
 
-![demo](./demo.gif)
+![demo.gif](https://s2.loli.net/2022/05/29/4tWksTNU5dLR9jG.gif)
 
